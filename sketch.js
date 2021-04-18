@@ -61,4 +61,6 @@ function draw(){
 
     bird.display();
     abPlatform.display();
+
+    console.log("hello");
 }
